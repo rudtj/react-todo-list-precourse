@@ -1,5 +1,5 @@
 import React from "react";
-import "./DeleteBtn.css";
+import "../styles/DeleteBtn.css";
 
 const DeleteBtn = ({ onDelete, id }) => {
     return (
