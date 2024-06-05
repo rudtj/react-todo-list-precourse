@@ -1,7 +1,7 @@
 import React from "react";
 import Checkbox from "./Checkbox";
 import DeleteBtn from "./DeleteBtn";
-import "./TodoItem.css";
+import "../styles/TodoItem.css";
 
 const TodoItem = ({ todo, onToggle, onDelete }) => {
     return (
