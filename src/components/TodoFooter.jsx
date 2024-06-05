@@ -1,5 +1,5 @@
 import React from 'react';
-import "./TodoFooter.css";
+import "../styles/TodoFooter.css";
 
 const TodoFooter = ({ todosCount, filter, setFilter, clearCompleted }) => {
     return (
